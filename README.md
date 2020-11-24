@@ -28,7 +28,7 @@ The data pack is licensed under the GPLv3. For more information, take a look at 
 
 ## Inspiration
 
-The idea is based on a feature from the [Vanilla Parity][idea] datapack.
+This feature is already implemented in the `Minecraft Bedrock Edition`. I stumbled across it when looking at the [Vanilla Parity][idea] datapack.
 
 [idea]: https://www.planetminecraft.com/data-pack/vanilla-parity/
 [latest]: https://github.com/vanilla-friendly-datapacks/respawn-anchors-keep-charges/releases/latest
