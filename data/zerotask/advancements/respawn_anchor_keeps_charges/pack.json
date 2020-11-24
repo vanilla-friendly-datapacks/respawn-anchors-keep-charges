@@ -6,12 +6,13 @@
   },
   "display": {
     "announce_to_chat": false,
-    "description": "",
+    "description": "Mine them with Silk Touch!",
     "icon": {
-      "item": ""
+      "item": "minecraft:respawn_anchor",
+      "nbt": "{BlockStateTag:{charges: \"1\"}}"
     },
     "show_toast": false,
-    "title": ""
+    "title": "Respawn Anchors keep charges"
   },
   "parent": "global:zerotask"
 }

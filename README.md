@@ -1,16 +1,16 @@
-# Projectname
+# Respawn Anchors keep charges
 
-> A Minecraft 1.16.x data pack that
+> A Minecraft 1.16.x data pack that makes Respawn Anchors keep their charges when mined with a Silk Touch pickaxe.
 
 ## Installation
 
-Download the latest release from [here][latest] and put the datapack zip file into the `datapacks` folder of your Minecraft world. Download the resourcepack zip file (if available) and enable the pack in your client.
+Download the latest release from [here][latest] and put the datapack zip file into the `datapacks` folder of your Minecraft world.
 
-I usually provide resourcepacks to allow translations of my datapacks :)
+## Uninstallation
 
-## Crafting
+To uninstall the datapack, run the `zerotask:respawn_anchor_keeps_charges/uninstall` function and remove the datapack from your world save. Afterwards, run `reload`.
 
-## FAQ
+> **Note:** Already applied tooltips won't get removed!
 
 ## License
 
@@ -18,4 +18,4 @@ The data pack is licensed under the GPLv3. For more information, take a look at 
 
 ## Inspiration
 
-[latest]: https://github.com/vanilla-friendly-datapacks/REPLACE/releases/latest
+[latest]: https://github.com/vanilla-friendly-datapacks/respawn-anchors-keep-charges/releases/latest
