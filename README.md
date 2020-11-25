@@ -1,6 +1,6 @@
 # Respawn Anchors keep charges
 
-> A Minecraft 1.16.x data pack that makes Respawn Anchors keep their charges when mined with a Silk Touch pickaxe.
+> A Minecraft 1.16.x data pack that makes Respawn Anchors keep their charges when mined with a Silk Touch pickaxe. Additionally, a tooltip is added to indicate the number of charges.
 
 ## Installation
 
